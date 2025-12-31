@@ -29,6 +29,12 @@
       "hide": false
     },
     {
+      "name": "Rudeboy's Books",
+      "details": "A personal knowledge base and documentation website summarizing core computer engineering concepts. Currently covers Object-Oriented Programming (OOP) and Data Structures & Algorithms 2. Built using GitBook.",
+      "url": "rudeboy.gitbook.io/rudeboys-books",
+      "hide": false
+    },
+    {
       "name": "Quoridor",
       "details": "A 2D simulation of the 'Quoridor' board game developed with Object-Oriented Programming principles.",
       "url": "github.com/Bukutsu/quoridor_in_java",
