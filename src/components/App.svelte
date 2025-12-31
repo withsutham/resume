@@ -109,7 +109,7 @@
 								<span class="ml-0">- {act.place}</span>
 							{/if}
 							{#if act.years && act.years.length}
-								<span class="ml-2">({act.years.join(' - ')})</span>
+								<span class="ml-0">({act.years.join(' - ')})</span>
 							{/if}
 							{#if act.details}
 								<div class="mt-1">{act.details}</div>

@@ -13,7 +13,7 @@
     {
       "name": "Household Expense Forecaster",
       "details": "AI-powered web application for predicting monthly household expenses over a 36-month period (2025-2027). Trained on financial institution data using SARIMAX, Prophet, and XGBoost models.",
-      "url": "github.com/withsutham/household-expense-forecaster",
+      "url": "",
       "hide": false
     },
     {
@@ -58,7 +58,7 @@
   "workExperiences": [
     {
       "position": "Teaching Assistant (Introduction to Programming)",
-      "company": "Computer Engineering KU KPS",
+      "company": "CPE KU KPS",
       "url": "https://eng.kps.ku.ac.th/cpe/",
       "years": ["Jun 2025", "Present"],
       "details": [
@@ -69,17 +69,18 @@
   ],
   "activities": [
     {
-      "name": "POSN Computer Camp 1",
-      "place": "Silpakorn University, Sanam Chandra Palace Campus",
-      "years": ["2022"],
-      "details": "Selected to participate in The Promotion of Academic Olympiad and Development of Science Education Foundation under the patronage of Her Royal Highness Princess Galyani Vadhana Krom Luang Naradhiwas Rajanagarindra (POSN) Camp 1 in Computer."
-    },
-    {
       "name": "Academic Staff (Autonomous Robot Development Competition)",
       "place": "Kasetsart University",
       "years": ["2025"],
       "details": "Lectured on robotics fundamentals and control commands. Served as a mentor for competitors, offering consultation on code debugging and problem-solving strategies."
+    },
+    {
+      "name": "POSN Computer Camp 1",
+      "place": "Silpakorn University, Sanam Chandra Palace Campus",
+      "years": ["2022"],
+      "details": "Selected to participate in The Promotion of Academic Olympiad and Development of Science Education Foundation under the patronage of Her Royal Highness Princess Galyani Vadhana Krom Luang Naradhiwas Rajanagarindra (POSN) Camp 1 in Computer."
     }
+    
   ],
   "educations": [
     {
