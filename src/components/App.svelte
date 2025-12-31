@@ -16,6 +16,7 @@
 		workExperiences = [],
 		educations = [],
 		interests = [],
+		activities = [],
 		resumeUrl: { sourceLink = '', fullVersionLink = '' } = {}
 	} = profile || {});
 
@@ -96,6 +97,32 @@
 
 	<section>
 		<Hideable>
+			<h2 class="text-2xl print:text-4xl uppercase text-left">Activities</h2>
+			<hr />
+
+			<ul class="text-left list-disc pl-8">
+				{#each activities as act}
+					<Hideable>
+						<li class="mb-2">
+							<strong>{act.name}</strong>
+							{#if act.place}
+								<span class="ml-0">- {act.place}</span>
+							{/if}
+							{#if act.years && act.years.length}
+								<span class="ml-2">({act.years.join(' - ')})</span>
+							{/if}
+							{#if act.details}
+								<div class="mt-1">{act.details}</div>
+							{/if}
+						</li>
+					</Hideable>
+				{/each}
+			</ul>
+		</Hideable>
+	</section>
+
+	<section>
+		<Hideable>
 			<h2 class="text-2xl print:text-4xl uppercase text-left">Projects</h2>
 			<hr />
 
@@ -131,6 +158,7 @@
 			</ul>
 		</Hideable>
 	</section>
+
 
 	<footer class="print-only">
 		(See <a href={fullVersionLink} target="_blank" rel="noopener">full version</a>
