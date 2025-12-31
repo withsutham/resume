@@ -19,7 +19,7 @@
     {
       "name": "Equalizer Simulation",
       "details": "Web-based audio signal processing tool. Utilizes Z-Transform principles to visualize frequency response graphs and mathematical filter equations.",
-      "url": "github.com/withsutham/equalizer-simulation",
+      "url": "github.com/Bukutsu/equalizer_simulation",
       "hide": false
     },
     {
@@ -92,7 +92,7 @@
     }
   ],
   "interests": [
-    "Areas: Backend Development, Software Engineering, Mobile Application Development, Web Technologies",
+    "Areas: Backend Development, Software Engineering, Mobile Application Development, System Architecture",
     "Hobbies: Mobile Gaming, Listening to Music, Board Games, Watching Movies"
   ],
   "resumeUrl": {
