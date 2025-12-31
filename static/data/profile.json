@@ -85,11 +85,11 @@
   "educations": [
     {
       "head": "B.Eng. Computer Engineering",
-      "details": "Faculty of Engineering at Kamphaeng Saen, Kasetsart University, TH. 2023-2027 (Expected)"
+      "details": "Faculty of Engineering at Kamphaeng Saen, Kasetsart University, TH. 2023-Present (GPAX 2.89, 5 semesters)"
     },
     {
       "head": "High School Diploma (Science–Mathematics–Technology and Environment Program)",
-      "details": "Prachuapwittayalai School, TH. 2020-2023"
+      "details": "Prachuapwittayalai School, TH. 2020-2023 (GPAX 3.60)"
     }
   ],
   "interests": [
@@ -98,6 +98,6 @@
   ],
   "resumeUrl": {
     "sourceLink": "https://github.com/withsutham/resume",
-    "fullVersion": "https://resume.withsutham.live"
+    "fullVersion": "https://rudeboy-resume.vercel.app/"
   }
 }
