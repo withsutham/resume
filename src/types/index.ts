@@ -5,10 +5,17 @@ export interface IProfileResp {
 	workExperiences: IWorkExperience[];
 	educations: IEducation[];
 	interests: string[];
+	activities: IActivity[];
 	resumeUrl: {
 		sourceLink: string;
 		fullVersionLink: string;
 	};
+}
+export interface IActivity {
+	name: string;
+	place?: string;
+	years?: string[];
+	details?: string;
 }
 export interface IIntro {
 	name: string;
